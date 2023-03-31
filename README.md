@@ -21,3 +21,4 @@ Click the "Copy to Clipboard" button to copy the generated password(s) to the cl
 Requirements
 The password generator requires a modern web browser with JavaScript enabled.
 
+![Screenshot 2023-03-31 at 10 45 08 AM](https://user-images.githubusercontent.com/110508944/229168039-fe1558ee-fee0-4889-adb1-d70ce9927052.png)
