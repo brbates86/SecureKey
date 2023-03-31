@@ -1,4 +1,6 @@
-# This is SecureKey. A simple password generator built using JavaScript. 
+# SecureKey
+
+A simple password generator built using JavaScript. 
 This application generates strong passwords based on user-specified criteria. 
 It can be run in a web browser.
 
