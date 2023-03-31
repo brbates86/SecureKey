@@ -1,11 +1,14 @@
-This is a simple password generator built using JavaScript that generates strong passwords based on user-specified criteria. It can be run in a web browser.
+# This is SecureKey. A simple password generator built using JavaScript. 
+This application generates strong passwords based on user-specified criteria. 
+It can be run in a web browser.
 
-# Features
+## Features
 Generates strong, random passwords of specified length
 Allows users to specify the type of characters to include in the password (uppercase letters, lowercase letters, numbers, and/or special characters)
 Can generate multiple passwords at once
 Option to copy the generated password(s) to the clipboard for easy use
-# Usage
+
+## Usage
 To use the password generator, follow these steps:
 
 Open the index.html file in your web browser.
